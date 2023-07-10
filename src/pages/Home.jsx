@@ -6,8 +6,7 @@ import Helmet from "../components/Helmet/Helmet";
 import { Container, Row, Col } from "reactstrap";
 import FindCarForm from "../components/UI/FindCarForm";
 import AboutSection from "../components/UI/AboutSection";
-import ServicesList from "../components/UI/ServicesList";
-import carData from "../assets/data/carData";
+import carData from "../assets/data/petData";
 import CarItem from "../components/UI/CarItem";
 import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 import Testimonial from "../components/UI/Testimonial";
@@ -47,8 +46,6 @@ const Home = () => {
               <h6 className="section__subtitle">See our</h6>
               <h2 className="section__title">Popular Services</h2>
             </Col>
-
-            <ServicesList />
           </Row>
         </Container>
       </section>
