@@ -37,5 +37,24 @@ HOME
 
 
 
+BLOGS
 
 
+![WhatsApp Image 2023-07-10 at 6 05 57 PM](https://github.com/supineevil/404_FOUND/assets/75155924/a01387fa-04f0-4bb6-ae2e-81779095231f)
+
+
+
+PETS
+
+
+![WhatsApp Image 2023-07-10 at 6 06 26 PM](https://github.com/supineevil/404_FOUND/assets/75155924/0a96809e-4d13-4423-98f3-d0f8e30f6de9)
+
+
+
+
+RESPONSIVE
+
+
+
+
+![WhatsApp Image 2023-07-10 at 6 06 51 PM](https://github.com/supineevil/404_FOUND/assets/75155924/abf3a8ee-cc29-4c75-acae-e871ac85330c)
