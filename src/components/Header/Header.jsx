@@ -14,7 +14,7 @@ const navLinks = [
     display: "About",
   },
   {
-    path: "/cars",
+    path: "/pets",
     display: "Pets",
   },
 

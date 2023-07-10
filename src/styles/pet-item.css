@@ -1,0 +1,93 @@
+.pet__item {
+  border: 1px solid #09090936;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.pet__item-info span i {
+  color: #ff00ea;
+  font-size: 1.1rem;
+}
+
+.pet__item-btn {
+  border-radius: 0;
+  border: none;
+  outline: none;
+  background: #9f00f5;
+  padding: 8px 0px;
+}
+
+.pet__item-btn a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+}
+
+.pet__item-btn a:hover {
+  color: #000000;
+}
+.pet__btn-details {
+  background: #ff7ce9;
+  border-radius: 0px 4px 4px 0px;
+}
+
+.pet__btn-rent {
+  border-radius: 4px 0px 0px 4px;
+}
+
+.pet__item-content h4 {
+  font-size: 1.8rem;
+}
+
+.pet__item-content h6 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 992px) {
+  .pet__item h4 {
+    font-size: 1.1rem;
+    margin-bottom: 0;
+  }
+
+  .pet__item h6 {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+
+  .pet__item-info {
+    flex-wrap: wrap;
+  }
+
+  .pet__item-info span {
+    font-size: 0.8rem;
+    justify-content: space-between;
+  }
+
+  .pet__item-btn {
+    padding: 5px 10px;
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .pet__item h4 {
+    font-size: 1rem;
+  }
+
+  .pet__item h6 {
+    font-size: 0.9rem;
+  }
+
+  .pet__item-info span {
+    font-size: 0.7rem;
+  }
+
+  .pet__item-info span i {
+    font-size: 0.9rem;
+  }
+
+  .pet__item-btn {
+    font-size: 0.8rem;
+  }
+}
